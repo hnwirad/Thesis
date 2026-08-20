@@ -1,0 +1,14 @@
+numpy
+torch>=1.11
+torchvision
+tqdm
+Pillow
+opencv-python
+dlib
+face-alignment
+lpips
+insightface
+scipy
+pyyaml
+wandb
+imageio
